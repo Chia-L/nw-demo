@@ -1,2 +1,10 @@
 # nw-demo
-nw 桌面应用程序demo
+##### 依赖
+
+```js
+#安装cnm
+npm install -g cnpm@6.2.0 --registry=https://registry.npm.taobao.org
+```
+
+
+
